@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "라비앙로즈 (La Vie en Rose)",
+  "base_artist": "IZ*ONE (아이즈원)",
+  "createdAt": "2026-01-13T23:57:39.678004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Vie en Rose - 라비앙로즈",
+      "artist": "IZ*ONE (아이즈원)",
+      "has_synced": true,
+      "path": "select/01_La_Vie_en_Rose_-_라비앙로즈_IZ_ONE_(아이즈원).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Vie en Rose (라비앙로즈)",
+      "artist": "아이즈원 (IZ*ONE)",
+      "has_synced": true,
+      "path": "select/02_La_Vie_en_Rose_(라비앙로즈)_아이즈원_(IZ_ONE).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "라비앙로즈",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_라비앙로즈_IZ_ONE.txt"
+    }
+  ]
+}
